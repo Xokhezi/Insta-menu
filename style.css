@@ -113,8 +113,8 @@ body {
   display: flex;
 }
 .profile-pic {
-  width: 60px;
-  height: 60px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -128,4 +128,7 @@ body {
 h5 {
   margin: 0;
   padding: 0;
+}
+.profile-description h5 {
+  color: #747272;
 }
